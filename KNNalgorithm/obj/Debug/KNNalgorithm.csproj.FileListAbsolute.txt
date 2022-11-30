@@ -1,0 +1,8 @@
+C:\Users\MONSTER\Desktop\ATU\I2P\KNNalgorithm\KNNalgorithm\bin\Debug\KNNalgorithm.exe.config
+C:\Users\MONSTER\Desktop\ATU\I2P\KNNalgorithm\KNNalgorithm\bin\Debug\KNNalgorithm.exe
+C:\Users\MONSTER\Desktop\ATU\I2P\KNNalgorithm\KNNalgorithm\bin\Debug\KNNalgorithm.pdb
+C:\Users\MONSTER\Desktop\ATU\I2P\KNNalgorithm\KNNalgorithm\obj\Debug\KNNalgorithm.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\ATU\I2P\KNNalgorithm\KNNalgorithm\obj\Debug\KNNalgorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\ATU\I2P\KNNalgorithm\KNNalgorithm\obj\Debug\KNNalgorithm.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\ATU\I2P\KNNalgorithm\KNNalgorithm\obj\Debug\KNNalgorithm.exe
+C:\Users\MONSTER\Desktop\ATU\I2P\KNNalgorithm\KNNalgorithm\obj\Debug\KNNalgorithm.pdb
